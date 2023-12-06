@@ -6,17 +6,21 @@
 
 ## 2D Wing motion and aerodynamic force during downstroke
 
+### pitch axis located at 0.25*C_avereff
+
 ![2D force Vector](https://github.com/xijunke/Stick_figure_forceVector_for_FWMAV/blob/master/2D-force%20vector_1568/pic_bmp_tif_eps_png_psd/Stick_figure_force_downstroke_pitchaxis025C_avereff.bmp)
+
+### pitch axis located at 0.25*C_avereff
 
 ![2D force Vector](https://github.com/xijunke/Stick_figure_forceVector_for_FWMAV/blob/master/2D-force%20vector_1568/pic_bmp_tif_eps_png_psd/Stick_figure_force_downstroke_pitchaxis025C_avereff.png)
 
-![2D force Vector](https://github.com/xijunke/Stick_figure_forceVector_for_FWMAV/blob/master/2D-force%20vector_1568/pic_bmp_tif_eps_png_psd/Stick_figure_force_downstroke_pitchaxis025C_avereff-2.tif)
-
-![2D force Vector](https://github.com/xijunke/Stick_figure_forceVector_for_FWMAV/blob/master/2D-force%20vector_1568/pic_bmp_tif_eps_png_psd/Stick_figure_force_downstroke_pitchaxis025C_avereff.eps)
-
 ## 2D Wing motion and aerodynamic force during upstroke
 
+### pitch axis located at 0.25*C_avereff
+
 ![2D force Vector](https://github.com/xijunke/Stick_figure_forceVector_for_FWMAV/blob/master/2D-force%20vector_1568/pic_bmp_tif_eps_png_psd/Stick_figure_force_upstroke_pitchaxis025C_avereff.bmp)
+
+### pitch axis located at 0.25*C_avereff
 
 ![2D force Vector](https://github.com/xijunke/Stick_figure_forceVector_for_FWMAV/blob/master/2D-force%20vector_1568/pic_bmp_tif_eps_png_psd/Stick_figure_force_upstroke_pitchaxis025_C_avereff.png)
 
