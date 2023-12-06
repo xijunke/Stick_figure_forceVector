@@ -1,14 +1,13 @@
 # Stick figure 2D force Vector for FWMAV
 
+![2D force Vector](https://github.com/xijunke/Stick_figure_forceVector_for_FWMAV/blob/master/2D-force%20vector_14118/pic_bmp_png/Stick_figure_force_downstroke-%E5%90%AB%E6%9C%89%E5%B9%B3%E5%8A%A8%E6%B3%95%E5%90%91%E5%8A%9B%E5%88%86%E9%87%8F%E5%92%8C%E8%BD%AC%E5%8A%A8%E7%8E%AF%E9%87%8F%E6%B3%95%E5%90%91%E5%8A%9B%E5%88%86%E9%87%8F.bmpp)
 
-![2D force Vector](https://github.com/xijunke/ConcepDes_FMAV_delta/blob/master/pic_GUI/main_GUI.bmp)
+![2D force Vector](https://github.com/xijunke/Stick_figure_forceVector_for_FWMAV/blob/master/2D-force%20vector_14118/pic_bmp_png/Stick_figure_force_downstroke.bmp)
 
-![2D force Vector](https://github.com/xijunke/ConcepDes_FMAV_delta/blob/master/pic_GUI/%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2-ConcepDes_FMAV_delta.bmp)
+![2D force Vector](https://github.com/xijunke/Stick_figure_forceVector_for_FWMAV/blob/master/2D-force%20vector_14118/pic_bmp_png/Stick_figure_force_downstroke.png)
 
-![2D force Vector](https://github.com/xijunke/ConcepDes_FMAV_delta/blob/master/pic_GUI/main_GUI.bmp)
+![2D force Vector](https://github.com/xijunke/Stick_figure_forceVector_for_FWMAV/blob/master/2D-force%20vector_14118/pic_bmp_png/Stick_figure_force_upstroke-%E5%90%AB%E6%9C%89%E5%B9%B3%E5%8A%A8%E6%B3%95%E5%90%91%E5%8A%9B%E5%88%86%E9%87%8F%E5%92%8C%E8%BD%AC%E5%8A%A8%E7%8E%AF%E9%87%8F%E6%B3%95%E5%90%91%E5%8A%9B%E5%88%86%E9%87%8F.bmp)
 
-![2D force Vector](https://github.com/xijunke/ConcepDes_FMAV_delta/blob/master/pic_GUI/%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2-ConcepDes_FMAV_delta.bmp)
+![2D force Vector](https://github.com/xijunke/Stick_figure_forceVector_for_FWMAV/blob/master/2D-force%20vector_14118/pic_bmp_png/Stick_figure_force_upstroke.bmp)
 
-![2D force Vector](https://github.com/xijunke/ConcepDes_FMAV_delta/blob/master/pic_GUI/main_GUI.bmp)
-
-![2D force Vector](https://github.com/xijunke/ConcepDes_FMAV_delta/blob/master/pic_GUI/%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2-ConcepDes_FMAV_delta.bmp)
+![2D force Vector](https://github.com/xijunke/Stick_figure_forceVector_for_FWMAV/blob/master/2D-force%20vector_14118/pic_bmp_png/Stick_figure_force_upstroke.png)

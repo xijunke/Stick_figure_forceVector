@@ -1,9 +1,9 @@
 # Stick figure 3D force Vector for FWMAV
 
-![3D force Vector](https://github.com/xijunke/ConcepDes_FMAV_delta/blob/master/pic_GUI/main_GUI.bmp)
+![3D force Vector](https://github.com/xijunke/Stick_figure_forceVector_for_FWMAV/blob/master/3D-force%20vector_14118/pic_bmp_png/thr_dim_chord_PresStroke.bmp)
 
-![3D force Vector](https://github.com/xijunke/ConcepDes_FMAV_delta/blob/master/pic_GUI/%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2-ConcepDes_FMAV_delta.bmp)
+![3D force Vector](https://github.com/xijunke/Stick_figure_forceVector_for_FWMAV/blob/master/3D-force%20vector_14118/pic_bmp_png/thr_dim_chord_PresStroke.png)
 
-![3D force Vector](https://github.com/xijunke/ConcepDes_FMAV_delta/blob/master/pic_GUI/main_GUI.bmp)
+![3D force Vector](https://github.com/xijunke/Stick_figure_forceVector_for_FWMAV/blob/master/3D-force%20vector_14118/pic_bmp_png/thr_dim_chord_PresStroke_3D.bmp)
 
-![3D force Vector](https://github.com/xijunke/ConcepDes_FMAV_delta/blob/master/pic_GUI/%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2-ConcepDes_FMAV_delta.bmp)
+![3D force Vector](https://github.com/xijunke/Stick_figure_forceVector_for_FWMAV/blob/master/3D-force%20vector_14118/pic_bmp_png/thr_dim_chord_PresStroke_3D.png)
